@@ -5,5 +5,12 @@ public class GitDemo {
 		
 	
 	System.out.println("Good Morning");
+	
+	boolean isBlack = true;
+	if(isBlack) {
+		System.out.println("def");
+	}else {
+		System.out.println("lmn");
+	}
 }
 }
